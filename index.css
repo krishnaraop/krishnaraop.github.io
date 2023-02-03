@@ -1,0 +1,9 @@
+.main{
+    background-color: rgb(203, 220, 222);
+}
+.mainTitle{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: burlywood;
+    border-radius: 20px;
+}
